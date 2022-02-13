@@ -2,6 +2,8 @@
 
 A tool that will e-mail your mom a photo every day and show a gallery of the previous days photos.
 
+See https://www.chipmunk.no/blog/yak-shaving-memory-drops-for-my-mom for thoughts and background.
+
 ## Quick start
 
 - Put the photos in the `photos/` folder. Use naming convention `0004-2000-05-14.jpg`. A sequence number followed by the date. Lightroom can do this for you. The most important thing is that the names allow for sorting that does not change when adding more photos later.
