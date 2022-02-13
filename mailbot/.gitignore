@@ -1,0 +1,4 @@
+# Temp folder for Python dependencies
+package/
+# Packaged artifact for upload to AWS Lambda
+mailbot.zip
